@@ -3,7 +3,7 @@ package control;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.print("Hola mi gente!!!!");
+		System.out.print("Ahora si, porfas te lo pidooooo");
 	}
 
 }
